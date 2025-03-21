@@ -4,8 +4,9 @@ const Contact = () => {
 
     return (
         <div>
-            <h1>Contact Page</h1>
-            <p>cualquiercosa</p>
+            <h1>Atencion al Cliente</h1>
+            <p>617 10 66 95</p>
+            <p>Tienda.virtual@clientes.net</p>
         </div>
     );
 }
